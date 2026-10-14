@@ -6,7 +6,7 @@ body{
 h1{
     font-size: 40px;
     text-align: center;
-    color:rgb(83, 86, 93);
+    color:#53565d;
 }
 .pic{
     width: 300px;
@@ -44,6 +44,8 @@ a{
 .homepage-pic{
     width: 600px;
     height: 300px;
+    border-radius: 50px;
+    border: 1.5px solid black;
 }
 
 #homepage-intro{
