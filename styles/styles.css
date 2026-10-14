@@ -6,6 +6,7 @@ body{
 h1{
     font-size: 40px;
     text-align: center;
+    color:rgb(83, 86, 93);
 }
 .pic{
     width: 300px;
@@ -37,4 +38,21 @@ a{
     display: flex;
     align-items: flex-start;
     gap: 20px;
+}
+
+.homepage-pic{
+    width: 600px;
+    height: 300px;
+}
+
+#homepage-intro{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 200px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
 }
